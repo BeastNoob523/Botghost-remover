@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["WATCHING","SERVER'S"];
+const statusMessages = ["WATCHING","SERVERS"];
 
 
 let currentIndex = 0;
